@@ -1,4 +1,4 @@
-# Superstore_sales_Dashboar (Using Power BI)
+# Superstore_Sales_Dashboard (Using Power BI)
 ## This project features a comprehensive and dynamic dashboard designed to provide an insightful overview of the Superstore's performance. It is organized to display data interactively across multiple dimensions.
 
 ## Category Analysis:- 
